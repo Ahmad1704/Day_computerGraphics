@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Sierpinski", "Sierpinski.vcxproj", "{FD92E45B-41F5-4627-A5A9-B088D386EC69}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD92E45B-41F5-4627-A5A9-B088D386EC69}.Debug|x64.ActiveCfg = Debug|x64
+		{FD92E45B-41F5-4627-A5A9-B088D386EC69}.Debug|x64.Build.0 = Debug|x64
+		{FD92E45B-41F5-4627-A5A9-B088D386EC69}.Debug|x86.ActiveCfg = Debug|Win32
+		{FD92E45B-41F5-4627-A5A9-B088D386EC69}.Debug|x86.Build.0 = Debug|Win32
+		{FD92E45B-41F5-4627-A5A9-B088D386EC69}.Release|x64.ActiveCfg = Release|x64
+		{FD92E45B-41F5-4627-A5A9-B088D386EC69}.Release|x64.Build.0 = Release|x64
+		{FD92E45B-41F5-4627-A5A9-B088D386EC69}.Release|x86.ActiveCfg = Release|Win32
+		{FD92E45B-41F5-4627-A5A9-B088D386EC69}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AA225939-79F4-4604-B64E-E5790474705B}
+	EndGlobalSection
+EndGlobal

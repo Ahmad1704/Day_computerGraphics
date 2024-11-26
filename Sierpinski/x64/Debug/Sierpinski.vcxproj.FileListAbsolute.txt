@@ -1,0 +1,4 @@
+C:\Users\Ahmed\source\repos\Sierpinski\x64\Debug\glew32d.dll
+C:\Users\Ahmed\source\repos\Sierpinski\x64\Debug\sfml-system-d-2.dll
+C:\Users\Ahmed\source\repos\Sierpinski\x64\Debug\sfml-window-d-2.dll
+C:\Users\Ahmed\source\repos\Sierpinski\Sierpinski\x64\Debug\Sierpins.2D6AAE00.Up2Date

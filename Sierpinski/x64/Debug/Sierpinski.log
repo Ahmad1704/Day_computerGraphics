@@ -1,0 +1,5 @@
+﻿  Sierpinski.cpp
+C:\Users\Ahmed\source\repos\Sierpinski\Sierpinski.cpp(126,18): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Sierpinski.vcxproj -> C:\Users\Ahmed\source\repos\Sierpinski\x64\Debug\Sierpinski.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
