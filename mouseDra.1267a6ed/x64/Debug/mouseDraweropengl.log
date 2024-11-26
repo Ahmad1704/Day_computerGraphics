@@ -1,0 +1,9 @@
+﻿  mouseDraweropengl.cpp
+C:\Users\Ahmed\source\repos\mouseDraweropengl\mouseDraweropengl.cpp(93,51): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\Users\Ahmed\source\repos\mouseDraweropengl\mouseDraweropengl.cpp(122,79): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Ahmed\source\repos\mouseDraweropengl\mouseDraweropengl.cpp(122,58): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Ahmed\source\repos\mouseDraweropengl\mouseDraweropengl.cpp(132,75): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Ahmed\source\repos\mouseDraweropengl\mouseDraweropengl.cpp(132,56): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  mouseDraweropengl.vcxproj -> C:\Users\Ahmed\source\repos\mouseDraweropengl\x64\Debug\mouseDraweropengl.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.

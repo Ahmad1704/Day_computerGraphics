@@ -1,0 +1,4 @@
+C:\Users\Ahmed\source\repos\mouseDraweropengl\x64\Debug\glew32d.dll
+C:\Users\Ahmed\source\repos\mouseDraweropengl\x64\Debug\sfml-system-d-2.dll
+C:\Users\Ahmed\source\repos\mouseDraweropengl\x64\Debug\sfml-window-d-2.dll
+C:\Users\Ahmed\source\repos\mouseDraweropengl\mouseDra.1267a6ed\x64\Debug\mouseDra.34852BA0.Up2Date
