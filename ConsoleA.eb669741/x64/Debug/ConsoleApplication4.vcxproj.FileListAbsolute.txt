@@ -1,0 +1,4 @@
+C:\Users\Ahmed\source\repos\ConsoleApplication4\x64\Debug\glew32d.dll
+C:\Users\Ahmed\source\repos\ConsoleApplication4\x64\Debug\sfml-system-d-2.dll
+C:\Users\Ahmed\source\repos\ConsoleApplication4\x64\Debug\sfml-window-d-2.dll
+C:\Users\Ahmed\source\repos\ConsoleApplication4\ConsoleA.eb669741\x64\Debug\ConsoleA.8BEF81C0.Up2Date
